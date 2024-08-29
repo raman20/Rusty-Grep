@@ -1,6 +1,6 @@
-# Rust CLI Application
+# Rusty-Grep
 
-This is a simple Rust CLI application.
+This is a simple Rust CLI application that searches for a given query in a file similar to the `grep` command.
 
 ## Getting Started
 
